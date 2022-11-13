@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramkrint91
-- 👀 I’m interested in Python, Django and Web3
-- 🌱 I’m currently learning Web3
+- 👀 I’m interested in Python, Django, JavaScript
+- 🌱 I’m currently learning Writing Chrome extension & Manifest V3
 - 💞️ I’m looking to collaborate on Technology Projects
 - 📫 How to reach me ramkrint91@gmail.com
 
